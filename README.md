@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Tanwa Kongjinda
 
-<img src="https://raw.githubusercontent.com/NongMam/NongMam/refs/heads/main/SlamyWebbanner.svg" alt="img" />
+<img src="https://raw.githubusercontent.com/NongMam/NongMam/refs/heads/main/SlamyWebbannera.svg" alt="img" />
 <!--
 **NongMam/NongMam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
