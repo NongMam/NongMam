@@ -1,17 +1,14 @@
-## Hi there 👋 I'm Tanwa Kongjinda
+##👋 สวัสดี! ผม **Tanwa “NongMam” Kongjinda**
 
-<img src="https://raw.githubusercontent.com/NongMam/NongMam/d21fc50b083330e30a0bb79ef8d8a67acd713a37/Banner.svg" alt="img" />
-<!--
-**NongMam/NongMam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 [slamy.in.th](https://slamy.in.th)  
+☕ Coffee-powered dev who codes things just for fun 🧩  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech I mess with: React • Next.js • TypeScript • Tailwind • Node.js  
+🎯 Working on: My personal site & other fun side projects  
+🚀 Always exploring new tricks, animations & web magic ✨  
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NongMam&show_icons=true&theme=tokyonight)
