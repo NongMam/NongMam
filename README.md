@@ -1,4 +1,4 @@
-##👋 สวัสดี! ผม **Tanwa “NongMam” Kongjinda**
+# 👋 สวัสดี! ผม **Tanwa “NongMam” Kongjinda**
 
 🌐 [slamy.in.th](https://slamy.in.th)  
 ☕ Coffee-powered dev who codes things just for fun 🧩  
